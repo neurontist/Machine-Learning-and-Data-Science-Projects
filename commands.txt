@@ -1,5 +1,0 @@
-conda env list
-conda create -n ml-naik python=3.10
-conda activate ml-naik
-conda install pandas numpy flask
-pip list --format=freeze > requirements.txt
